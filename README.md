@@ -59,7 +59,7 @@ This is version 2.0 BETA. We are continuously working on improvements and update
 - Discord: 8ejj
 
 ## License
-Copyright 2024 BOZO. All rights reserved.
+Copyright 2025 BOZO. All rights reserved.
 
 ## Contributing
 Currently, this is a private project. Contributions are not open to the public.
