@@ -1,8 +1,6 @@
 # BOZO Professional Suite 🚀🔥 (BETA)
 
-![Version 2.0 BETA](https://img.shields.io/badge/version-2.0%20BETA-blue)  
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)  
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Version 2.0 BETA](https://img.shields.io/badge/version-2.0%20BETA-blue)  [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)  [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![image](https://github.com/user-attachments/assets/d0ea1a50-9b30-497a-b490-c3129fe4d3e3)
 
 ---
